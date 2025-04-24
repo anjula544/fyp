@@ -342,8 +342,8 @@ def generate_sar_heatmap(epc,slider_positions, simulated_phase, true_tag=None, f
     plt.show()
 
 # File paths
-input_csv = "../datasts/calc_14/dataset.csv"
-output_directory = "../datasts/calc_14"
+input_csv = "../datasets/calc_14/dataset.csv"
+output_directory = "../datasets/calc_14"
 coordinatefile = "../datasets/calc_14/coordinates.csv"
 
 # Process frequency
