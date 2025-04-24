@@ -342,9 +342,9 @@ def generate_sar_heatmap(epc,slider_positions, simulated_phase, true_tag=None, f
     plt.show()
 
 # File paths
-input_csv = "../datasets/calc_14/dataset.csv"
-output_directory = "../datasets/calc_14"
-coordinatefile = "../datasets/calc_14/coordinates.csv"
+input_csv = "E:/FYP/Fyp_code/datasets/calc_14/dataset.csv"
+output_directory = "E:/FYP/Fyp_code/datasets/calc_14"
+coordinatefile = "E:/FYP/Fyp_code/datasets/calc_14/coordinates.csv"
 
 # Process frequency
 frequency_to_process = 902.75
